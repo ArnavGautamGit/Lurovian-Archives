@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/welcome-to-lurovian-archives/","tags":["gardenEntry"]}
 ---
 
+![favicon.jpg](/img/user/favicon.jpg)
 
 ---
 # Welcome to Lurovian Archives!
@@ -40,4 +41,4 @@ This is where the [[Storms of Eslance\|Storms of Eslance]] began to brew. Forech
 
 The incident confirmed one thing though... that whatever is happening in the [[Magical Woods\|Magical Woods]] is a proxy war.
 
-![favicon.jpg](/img/user/favicon.jpg)
+
