@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/welcome-to-lurovian-archives/","tags":["gardenEntry"]}
 ---
 
-![favicon.jpg](/img/user/favicon.jpg)
 
 ---
-# Welcome to Lurovian Archives!
+# Welcome to the Lurovian Archives!
 I am the Archivist of this Archive, Garnav Autumn.
 This is an archive of all the happenings in the lands of [[Lurov\|Lurov]].
+![Lurov.png](/img/user/Images/Lurov.png)
 
 Among the many chronicles inscribed within the pages of this Archive, few are as defining as the Second Book of this archive: [[Storms of Eslance\|Storms of Eslance]]. A saga of shifting allegiances, whispered prophecies, exploration and a fine balance of individual security in the garb of collective security.
 
@@ -41,4 +41,5 @@ This is where the [[Storms of Eslance\|Storms of Eslance]] began to brew. Forech
 
 The incident confirmed one thing though... that whatever is happening in the [[Magical Woods\|Magical Woods]] is a proxy war.
 
+![favicon.jpg](/img/user/favicon.jpg)
 
