@@ -5,7 +5,7 @@
 
 ---
 # Welcome to Lurovian Archives!
-I am the Archivist of this Archive. You may call me GM.
+I am the Archivist of this Archive, Garnav Autumn.
 This is an archive of all the happenings in the lands of [[Lurov\|Lurov]].
 
 Among the many chronicles inscribed within the pages of this Archive, few are as defining as the Second Book of this archive: [[Storms of Eslance\|Storms of Eslance]]. A saga of shifting allegiances, whispered prophecies, exploration and a fine balance of individual security in the garb of collective security.
