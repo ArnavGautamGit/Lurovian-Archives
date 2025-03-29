@@ -36,7 +36,7 @@ The Ship returned Disfigured in Orken Paintings and Murals. Smaller Masts were c
 
 The Ship crashed into an island in Bridgeport.
 The Case was handed to the first cousin of Queen - [[Nidus Bronze\|Nidus Bronze]].
-He has sought to investigate with the help of non-Dragonpeak soldiers so that the claim could be avoided that the Dragons were trying to interfere.
+He has sought the help of new, unaffiliated Adventurers who will eventually travel into Vranik to investigate so that there is an added layer of deniability with any covert operations involved and no one could accuse the Dragonpeak of interference.
 
 This is where the [[Storms of Eslance\|Storms of Eslance]] began to brew. Forechesters and most houses withdrew support for the Invasion on one end due to the threat of being invaded from the other.
 
