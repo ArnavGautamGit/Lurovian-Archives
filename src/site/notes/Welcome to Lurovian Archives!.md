@@ -19,7 +19,7 @@ The peaks themselves were not special, but they held ores of the Dragonsteel ins
 
 Many Kingdoms came & perished but none could defeat the guardians of those coveted peaks - The [[Drakona\|Drakona]] and their Dragons.
 
-These peaks are the only location in the entirety of Lurov which has Dragons. Millenia came and Millenia passed but the Dragons stayed loyal to the [[Kingdom of Dragonpeaks\|Kingdom of Dragonpeaks]] which was ruled by the Drakona for Centuries until one day, when the son of the King of the [[Owlesian Empire\|Owlesian Empire]], Prince [[John VI Forechester\|John VI Forechester]] from [[Owlett\|Owlett]] married with Princess [[Ivara I Bronze\|Ivara I Bronze]]. It was agreed upon that the ruler would still remain a person from Bronze family.
+These peaks are the only location in the entirety of Lurov which has Dragons. Millenia came and Millenia passed but the Dragons stayed loyal to the [[Kingdoms/Kingdom of Dragonpeaks\|Kingdom of Dragonpeaks]] which was ruled by the Drakona for Centuries until one day, when the son of the King of the [[Owlesian Empire\|Owlesian Empire]], Prince [[John VI Forechester\|John VI Forechester]] from [[Owlett\|Owlett]] married with Princess [[Ivara I Bronze\|Ivara I Bronze]]. It was agreed upon that the ruler would still remain a person from Bronze family.
 
 Queen Ivara passed during an attempt of treason to snatch the throne at 76, making John VI the first human to ascend the Dragon Throne and rule the kingdom from the [[Dragonpeak Citadel\|Dragonpeak Citadel]]. 
 The reign was shot-lived since John himself became ill and grim since Ivara passed and succumbed to his isolation when he joined his wife in heaven after he peacefully passed in his sleep just a week post-coronation...
@@ -32,9 +32,10 @@ The Cousin House of Forechesters, [[House Raebershire\|House Raebershire]] were 
 
 Everyone agreed at first but then a trade ship returned from [[Vranik\|Vranik]]. It was a Orken Town, a new settlement which was formed after the splitting of the [[Forest Council\|Forest Council]] of the [[Magical Woods\|Magical Woods]]. Dragonpeak wanted to establish peace as the [[United Orken Front\|United Orken Front]] were starting to become the Largest Colonising Force in Lurov.
 
-The Ship returned Disfigured in Orken Paintings and Murals. Smaller Masts were completely broken. The crew had been chopped to pieces and the few left alive to take the ship back to the Dragon City of Eslance had succumbed to their wounds... the shipped was rammed and scratched on either sides of the bow... As if the Orcs made sure the ship does not stray for some time at least.
+The Ship returned Disfigured in Orken Paintings and Murals. Smaller Masts were completely broken. The crew had been chopped to pieces and the few left alive to take the ship back to the Dragon City of Eslance had succumbed to their wounds by the time they crossed the Exile Channel connecting the Dragon Sea and the Confluent Sea... the shipped was rammed and scratched on either sides of the bow... As if the Orcs made sure the ship does not stray for some time at least.
 
-The Ship crashed into an island in Bridgeport.
+The Ship did not even reach Eslance, the entire crew was dead and there was no one to steer the ship, so it eventually crashed into an island in Bridgeport.
+
 The Case was handed to the first cousin of Queen - [[Nidus Bronze\|Nidus Bronze]].
 He has sought the help of new, unaffiliated Adventurers who will travel into Vranik to investigate on his behalf so that there is an added layer of deniability and no one could accuse the Dragonpeaks of interference.
 
