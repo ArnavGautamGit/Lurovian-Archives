@@ -81,7 +81,8 @@ content: Edward fulfills his promise to the Crown that his son would marry a Dra
 
 date: 5 AU
 title: A new Nightingale!
-content: [[Sir Arthur I Nightingale|Sir Arthur]] and [[Lady Nysa]] bring their firstborn child into this world!</br>The boy is lovingly named [[Lucian I Nightingale|Lucian]].
+content: [[Sir Arthur I Nightingale|Sir Arthur]] and [[Nysa I White|Lady Nysa]] bring their firstborn child into this world!
+The boy is lovingly named [[Lucian I Nightingale|Lucian]].
 
 date: 6 AU
 title: Diplomatic Blunder in Ironmouth!
