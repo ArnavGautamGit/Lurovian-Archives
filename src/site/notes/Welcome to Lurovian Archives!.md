@@ -12,7 +12,7 @@ This is an archive of all the happenings in the lands of [[Lurov\|Lurov]].
 
 Among the many chronicles inscribed within the pages of this Archive, few are as defining as the Second Book of this archive: [[Archived Tales/Storms of Eslance\|Storms of Eslance]]. A saga of shifting allegiances, whispered prophecies, exploration and a fine balance of individual security in the garb of collective security.
 
-But before we go as far, I should give you a background of what has led to a saga so great that it seems like the Gods themselves have turned playwrights and carved it scene by scene.... See the [[Complete Event Timeline\|Complete Event Timeline]] for yourselves.
+But before we go as far, I should give you a background of what has led to a saga so great that it seems like the Gods themselves have turned playwrights and carved it scene by scene.... See the [[Events/Complete Event Timeline\|Complete Event Timeline]] for yourselves.
 
 
 ![favicon.jpg](/img/user/favicon.jpg)
