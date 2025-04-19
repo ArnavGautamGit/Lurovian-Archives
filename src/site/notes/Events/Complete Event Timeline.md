@@ -46,7 +46,7 @@ content: [[Royal Wizarding School of Owlett]] received its first batch of studen
 
 date: 1283 BU
 title: Dark Sightings near Vulcanroth
-content: Undead Skeletons rise to the fore and begin to oevrthrow government after government of the [[Princely State of Vulcanroth]] as the priests proclaim the Gods murdered by their own Seraphs.
+content: Undead Skeletons rise to the fore and begin to overtake city after city and town after town in the regions administered by the [[Princely State of Vulcanroth]] as the priests proclaim the Gods murdered by their own Seraphs.
 
 date: 1250 BU
 title: Refugee Crisis and The Wall
