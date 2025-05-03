@@ -33,4 +33,4 @@ In regions surrounded by forests like Serpentia, there is majority of Wildborne 
 
 One may find Orderborne, Loreborne and a minority of Ridgeborne in moderately big towns like Triton whereas in a city with a river-port like Seashire and is held together by Academic Students studying in the [[Royal Wizarding School of Owlett\|Royal Wizarding School of Owlett]] one may spot Seaborne, Loreborne and Orderborne communities dominate the others.
 
-Ofcourse in historic capitals like Dragonpeak Citadel and Owlett, one would find more Highborne and Loreborne that any other location! Whereas in Military Strongholds close to the Mountains like [[Castle Whitebreak\|Castle Whitebreak]] - one might find many Ridgeborne and Orderborne.
+Ofcourse in historic capitals like Dragonpeak Citadel and Owlett, one would find more Highborne and Loreborne that any other location! Whereas in Military Strongholds close to the Mountains like [[Locations/Castle Whitebreak\|Castle Whitebreak]] - one might find many Ridgeborne and Orderborne.
