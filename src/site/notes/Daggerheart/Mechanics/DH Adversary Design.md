@@ -7,7 +7,7 @@
 # DH Adversary Design
 > More of a concern for the GM than the players but this is the part of designing sessions for the players that work well i.e., players feel challenged without feeling like this is a Dark Souls game.
 
-It is important to note that the entire Adversary Design needs to be such that we have absolute clarity on the severity of the combat situation. We should not place a group of adversaries who are almost equal to the party's skill and power if the battle is supposed to be a small skirmish.
+It is important to note that the entire Adversary Design needs to be such that we have absolute clarity on the severity of the combat situation. We should not place a group of adversaries who are almost equal to the party's skill and power if the battle is supposed to be a small & easy skirmish that the party can brush off.
 
 ### Battle Points
 [[Daggerheart/Daggerheart\|Daggerheart]] uses the concept of Battle Points to help the GM gauge what type, level and number of adversaries they can throw at the players without the players getting absolutely squashed by the enemies or the enemies/adversaries being strong that they squash the party like a bug.
