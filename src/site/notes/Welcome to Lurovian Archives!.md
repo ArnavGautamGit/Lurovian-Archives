@@ -12,8 +12,8 @@ This is an archive of all the happenings in the lands of [[Lurov\|Lurov]].
 
 Among the many chronicles inscribed within the pages of this Archive, few are as defining as the first adventure: [[Archived Tales/Storms of Eslance\|Storms of Eslance]]. A saga of shifting allegiances, whispered prophecies, exploration and a fine balance of individual security in the garb of collective security.
 
-> [!info]
-> For those that are coming from the StartPlaying.games or any other of my online games, I would like to tell you that reading through this is not necessary or needed. It is supposed to be a small little wiki that I made to show my Computer Science Skills. Nothing else. If you are coming from a different campaign or are not the first group to experience this campaign (will be discussed on Session 0) then I would like to warn you about lingering here due to potential spoilers.
+> [!info] Reading the entire archive is not necessary!
+> For those that are coming from my paid games (online or offline), I would like to tell you that reading through this is not necessary or needed. It is supposed to be a small little wiki that I made primarily to disaminate any Homebrew Rules and only then secondarily give something to read to those 0.001% players who love to read a wiki of a piece of media they are invested in.
 
 
 ![favicon.jpg](/img/user/Images/favicon.jpg)

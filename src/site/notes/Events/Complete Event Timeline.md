@@ -7,7 +7,7 @@
 # Complete Event Timeline
 This event timeline is built using [[Lurovian Calendars#Unification Calendar\|Unification Calendar]] as standard due to the events of Unification making things so much more simpler for all the archivists including myself!
 
-> Please note that the archivists recognise that the timeline may not look the best and we are working on a balance of form and function when we transcribe it to be viewed by our ooutworlder audience.
+> Please note that the archivists recognise that the timeline may not look the best and we are working on a balance of form and function when we transcribe it to be viewed by our outworlder audience.
 
 ```timeline-labeled
 [line-5, body-4]

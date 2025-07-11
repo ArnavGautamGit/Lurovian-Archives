@@ -10,9 +10,9 @@
 The Central Pieces to the story change depending on the Timeline which itself changes depending upon which adventurers were hired by Lord Nidus.
 
 ### Various Timelines
+A list of campaigns just in case I run more than one.
 [[Canon Timeline\|Canon Timeline]] (for future book)
-[[Fourth Wall Break/SoE Timeline 1A\|SoE Timeline 1A]] (with JIIT friends)
-[[SoE Timeline 1B\|SoE Timeline 1B]] 
+[[Fourth Wall Break/SoE Timeline 1\|SoE Timeline 1]] (Paid Campaign on StartPlaying)
 
 ### Story Opening
 The tensions between [[Kingdoms/Kingdom of Dragonpeaks\|Kingdom of Dragonpeaks]] and the [[Kingdoms/United Orken Front\|United Orken Front]] have been on the rise. The entire region would have been a massive warzone if Lord Nidus had not sent a diplomat ship. 
