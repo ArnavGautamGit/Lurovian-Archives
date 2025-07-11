@@ -11,7 +11,7 @@ The Rules are fairly simple but for ease of reading and navigation, I have divid
 
 ### Player's Turn
 - The players use the [[Daggerheart/Mechanics/Duality Dice\|Duality Dice]] to roll their Attack Rolls which need to yield a result higher than the adversary's [[Daggerheart/Mechanics/Evasion Score\|Evasion Score]] to succeed. Player gets a [[Hope Token\|Hope Token]] if they roll with hope or the GM gains a [[Fear Token\|Fear Token]] if they roll with Fear.
-	- If the Attack Roll Succeeds, the Player Rolls for damage using the weapon's damage dice. With the number of dice rolled depending upon the [[Proficiency Level\|Proficiency Level]] (starting at 1).
+	- If the Attack Roll Succeeds, the Player Rolls for damage using the weapon's damage dice. With the number of dice rolled depending upon the [[Daggerheart/Mechanics/Proficiency\|Proficiency]] (starting at 1).
 	- If the Attack Roll Fails, it is the [[Daggerheart/Rules/DH Combat Rules#GM's Turn\|GM's Turn]] to attack the players.
 
 ### GM's Turn

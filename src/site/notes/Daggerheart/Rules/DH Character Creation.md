@@ -129,7 +129,7 @@ Character Levelling is based on four tiers.
 
 At each Tier any character gains, the character is given the following:
 - The Character is allowed to take another [[Daggerheart/Rules/DH Character Creation#Character Experiences\|Character Experience]].
-- The character is given one [[Proficiency Level\|Proficiency Level]] i.e., if the character was rolling nd6 for their weapon, they will now role (n+1) number of d6 dice.
+- The character is given one [[Daggerheart/Mechanics/Proficiency\|Proficiency]] i.e., if the character was rolling nd6 for their weapon, they will now role (n+1) number of d6 dice.
 - On getting to Tier 3 and Tier 4 (i.e., on Level 5 and Level 8) all players can clear all marks on Character Traits and choose to increase them again on any level up.
 
 ---

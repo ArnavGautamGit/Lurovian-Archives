@@ -26,7 +26,7 @@ Being a Highborne - as the name may suggests - reflects that your character is f
 Community Feature for Highbornes is "***Privilege***" giving your character advantage on rolls they make on consort with nobles, negotiate prices or leverage their reputation.
 
 ### Loreborne
-Being from a Loreborne community means that your character belongs to a society where the people value knowledge and study more than they value riches. Some kinds of these societies are isolationists but majority of them are centred around places of high poitics or universities or similar. People of the Loreborne community are seen as direct, eloquent, inquisitive, witty etc but you can design your character as you wish.
+Being from a Loreborne community means that your character belongs to a society/enclave of scholars where the people value knowledge and study more than they value riches. Some kinds of these societies are isolationists but majority of them are centred around places of high poitics or universities or similar. People of the Loreborne community are seen as direct, eloquent, inquisitive, witty etc but you can design your character as you wish.
 
 Community Feature for Loreborne is "***Well-Read***" giving your character advantage on any rolls regarding history, culture, politics surrounding prominent places or people.
 
@@ -42,7 +42,7 @@ Community Feature for Orderborne is "***Dedicated***" which requires the players
 Being from a Ridgeborne community means that your character belongs from Rocky Mountains and/or sharp cliffs. This includes harsh snow-covered mountains to steppes and other similar terrain.
 Ridgeborn are often seen as: bold, hardy, indomitable, loyal, reserved, stubborn.
 
-Community Feature for Ridgeborn is "***Steady***" which provides the character to have advantage traversing dangerous cliffs, ledges and other harsh environment. Additionally, they gain an additional 1x [[Daggerheart/Mechanics/Armour Slots\|Armour Slot]] at Character Creation.
+Community Feature for Ridgeborn is "***Steady***" which provides the character to have advantage traversing dangerous cliffs, ledges and other harsh environment.
 
 ### Seaborne
 Seaborne communities are built, both physically and culturally, around the specific waters they call home — some of these groups live along the shore, constructing ports for locals and travelers alike. These harbors may function as both centers of commerce, tourist attractions, or even just a safe place to lay down one’s head after weeks of travel. Other Seaborne live on the water in small boats or large ships, with the idea of “home” comprising a ship and its crew, rather than any one landmass. 

@@ -16,9 +16,7 @@ Each class has 2 fixed Domains.
 The Enchanter's domains are: [[Sage\|Sage]] and [[Grace\|Grace]].
 
 ### Base Scores
-Base Evasion Score: 8
-Major Damage Threshold: 6
-Severe Damage Threshold: 14
+Base Evasion Score: 10
 
 ### Class Items
 Each Class also has a specific non-combat item they can choose to have - and these items will become plot points in the story so prepare a story for how the Enchanter got it. They must have one. 

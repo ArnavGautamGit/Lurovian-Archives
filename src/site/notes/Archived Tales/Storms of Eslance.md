@@ -15,7 +15,7 @@ The Central Pieces to the story change depending on the Timeline which itself ch
 [[SoE Timeline 1B\|SoE Timeline 1B]] 
 
 ### Story Opening
-The tensions between Dragonpeaks and the United Orken Front have been on the rise. The entire region would have been a massive warzone if Lord Nidus had not sent a diplomat ship. 
+The tensions between [[Kingdoms/Kingdom of Dragonpeaks\|Kingdom of Dragonpeaks]] and the [[Kingdoms/United Orken Front\|United Orken Front]] have been on the rise. The entire region would have been a massive warzone if Lord Nidus had not sent a diplomat ship. 
 That very ship that set its sail from the Trade City of Eslance now lays crashed into the islands of Bridgeport. 
 Lord Nidus has hired the party to investigate the wreckage & figure out how it may have happened. Time is limited before this falls victim to exaggerated stories and public theories about what may have happened.
 
