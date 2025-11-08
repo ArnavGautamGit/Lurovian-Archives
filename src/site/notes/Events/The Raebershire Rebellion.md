@@ -11,7 +11,7 @@ Many Raebershires say that it was the case earlier as well - they were sidelined
 
 Not to mention the [[Appearance of the Sea Serpent\|Appearance of the Sea Serpent]] made tradeships avoid the Dragon Sea altogether - hurting their purse. Merging with the Dragons meant that since the trade is now internal to the State, House Raebershire would not be able to collect taxes and fares over goods entering and exiting the estate.
 
-In one year, they planned a Rebellion, they staged an attack on Queen [[Ivara I Bronze\|Ivara I]] with the Drakona of [[House Blue\|House Blue]] who felt similarly neglected.
+In one year, they planned a Rebellion, they staged an attack on Queen [[Ivara I Bronze\|Ivara I]] with the Drakona of [[House Azure\|House Azure]] who felt similarly neglected.
 
 Right after her coronation ceremony ended, two archers from the guard who were from House Blue shot the Queen in the shoulder and Knights of House Raebershire showed up to the Hall in full plate armour and demanded that she get down the throne and rip the agreement of merger. Before the Queen could say anything, there was an outright sword fight ensuing between the loyalists and the separatists.
 

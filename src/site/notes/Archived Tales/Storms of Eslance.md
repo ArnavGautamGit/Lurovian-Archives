@@ -7,7 +7,7 @@
 # Storms of Eslance
 > A Story of a group of Adventurers that very soon shaped the political landscape of the entirety of Lurov. The Story begins with [[People/Nidus I Bronze\|Lord Nidus, the first]] selecting a few adventurers from the recommendations provided to investigate a shipwreck.
 
-The Central Pieces to the story change depending on the Timeline which itself changes depending upon which adventurers were hired by Lord Nidus.
+The Central Pieces to the story change depending on the Timeline which itself changes depending upon which adventurers were hired by Lord Nidus. I heavily debated myself on if I should rename it to "Dragon Diplomacy"
 
 ### Various Timelines
 A list of campaigns just in case I run more than one.
